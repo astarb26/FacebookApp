@@ -8,7 +8,7 @@ Features:
 
   ** Only Facebook developer user can Sign In, and only Facebook developer users will appear in the frinds list.
 
-  
+  Screenshots:
 ![image](https://github.com/astarb26/FacebookApp/assets/104518345/8d371709-0e29-4cb4-a932-c798500f1113)
 
 ![image](https://github.com/astarb26/FacebookApp/assets/104518345/4a642f70-e95b-4673-9b14-ce36c084e5bc)
