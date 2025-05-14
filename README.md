@@ -1,10 +1,54 @@
-# WinForms Facebook Application
-Facebook desktop application using Facebook API(.NET Framework 4, WinForms Visual Studio)
-that provides a basic Facebook experience,developed as part of Design Patterns(c#) course.
+# 📘 Facebook Desktop Application
+This project is a Design Patterns Course Project built using C#, the .NET Framework 4, and WinForms. The application provides a simplified Facebook experience via the official Facebook API, showcasing a modular and maintainable architecture through the use of classic software design patterns.
 
-Features:
-* Six Design Patterns
-* Data Binding
+# 🎯 Project Goals
+
+Demonstrate practical use of software design patterns in a real-world scenario.
+
+Build a responsive, modular, and maintainable desktop application.
+
+Integrate with the Facebook API for real-time data access and user interaction.
+
+# 🛠️ Technologies Used
+
+C#, .NET Framework 4
+
+WinForms (Visual Studio)
+
+Facebook API (Graph API)
+
+Data Binding for real-time UI updates
+
+Object-Oriented Design Principles
+
+# 🧱 Implemented Design Patterns
+The architecture incorporates multiple Gang of Four (GoF) design patterns to highlight best practices in software design:
+
+🧩 Adapter Pattern – Standardized interaction with the Facebook API.
+
+🏗️ Builder Pattern – Step-by-step construction of complex UI components.
+
+🏭 Factory Method Pattern – Object creation logic encapsulated in factories.
+
+🔄 Singleton Pattern – Ensures single instance for core services like API clients.
+
+🎭 Strategy Pattern – Allows switching between different display or filter strategies.
+
+📦 Decorator Pattern – Adds extra UI features dynamically without altering existing code.
+
+# 🚀 Features
+
+🔐 User Authentication via Facebook login.
+
+📰 Post Feed Display – Retrieve and display recent user posts.
+
+🖼️ Photos and Albums – View user photos directly from the application.
+
+📝 Status Updates – Post status updates to the user's timeline.
+
+💬 Like & Comment Interactions (optional feature if implemented).
+
+🧩 Dynamic UI Updates – Powered by data binding for real-time responsiveness.
 
   ** Only Facebook developer user can Sign In, and only Facebook developer users will appear in the frinds list.
 
